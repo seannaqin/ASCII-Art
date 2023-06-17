@@ -1,7 +1,7 @@
 
 /* Seanna Qin P.1
  * Programming Assignment #2, 9/30/22
- * The purpose of this program is to print a scalable rocket ASCII Art.
+ * The purpose of this program is to print a scalable space needle ASCII Art.
  */
 
 public class SpaceNeedle {
